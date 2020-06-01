@@ -61,7 +61,6 @@ class App extends Component {
   }
 
   onItemClick = e => {
-    console.log('------------- Hello ',e);
     this.setState({
       selectedVideo: e,
     })
