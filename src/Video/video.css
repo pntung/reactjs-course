@@ -1,0 +1,15 @@
+.video-view {
+    background-color: rgb(232, 233, 181);
+    height: 600px;
+    border: 2px solid rgb(223, 222, 231);
+}
+
+.video-play {
+    height: 60%;
+    margin: 10px;
+}
+
+.video-info {
+    height: 22%;
+    margin: 10px;
+}

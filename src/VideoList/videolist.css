@@ -1,0 +1,6 @@
+.videolist {
+    background-color: #a3d4f0;
+    height: 600px;
+    border: 2px solid rgb(223, 222, 231);
+    overflow-y: auto;
+}
